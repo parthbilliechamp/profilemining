@@ -1,0 +1,16 @@
+file:///C:/Users/AYUSH/Documents/pse/Search.htm
+
+
+file:///C:/Users/AYUSH/Documents/pse/About.htm
+
+
+file:///C:/Users/AYUSH/Documents/pse/Contact.htm
+
+
+file:///C:/Users/AYUSH/Documents/pse/index.html
+
+
+file:///C:/Users/AYUSH/Documents/pse/Team.htm
+
+
+<link href="img/b.ico" rel="icon">
